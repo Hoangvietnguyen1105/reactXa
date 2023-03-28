@@ -1,4 +1,47 @@
 {
+    "home-header":{
+        "category":"category",
+        "category-des":"category-des",
+        "facility":"facility",
+        "facility-des":"Chose your facility",
+        "artist":"Artist",
+        "artist-des":"Book your artist",
+        "combo":"Combo",
+        "combo-des":"Chose your combo",
+        "support":"support",
+        "en":"en"
+    },
+    "homeheader-banner":{
+        "banner-title-content1":"Saturday Tattoo",
+        "sologan":"World class tattoo"
+    },
+    "homeheader-slide":{
+        "album":"Album"
+        
+    },
+    "des":{
+        "des1-right-text1":"EXPERIENCE A SPACE FULL OF ART",
+        "des1-right-text2":"Why choose Saturday tattoo?",
+        "des1-right-text3":"We use the best tools and have the most talented tattoo artists? The generic advertising that all tattoo parlors use probably won't make much sense to you. Good or bad art will be different in each person's eyes and it is up to you to judge that when you see the works done at our tattoo parlor. The difference that we are proud of is your experience every time you come to us and it will be difficult to describe in words. One thing we can guarantee when you come to Silver Ant Tattoo is that you will have no financial risk. Come see the difference and only pay when you are satisfied with the results you get",
+        "booking-button":"Booking",
+        "contact-button":"Chat",
+        "des2-left-text1":"WE TOUCH WHAT YOU THINK",
+        "des2-left-text2":"What style can Saturday Tattoo tattoo?",
+        "des2-left-text3":"Saturday Tattoo is a gathering place of 8 experienced artists with passion and pursuit of different tattoo styles. We'll make sure to choose an artist that best suits the style of your choice. Perfecting the role is not what we aim for, showing work that surpasses your expectations is our goal. Don't hesitate to tell us anything you want, we'll help you with the rest.",
+        "des3-right-text1":"Absolute safety",
+        "des3-right-text2":"Is it safe to get a tattoo at Silver Ant Tattoo?",
+        "des3-right-text3":"Since its operation at the end of 2016, Silver Ant Tattoo has not had a single case of customer infection. There are a number of reasons outlined below so that you can have complete confidence in the safety of tattooing at Silver Ant Tattoo. All instruments that come into direct contact with your skin such as needles and ink are sterile and are for single use only. The surrounding surfaces and items the tattoo artist touches are carefully wrapped to ensure a hygienic working environment. After tattooing we provide a selection of tattoo protectors and specific instructions to ensure you do not run into any mishaps during post-tattoo care. Moreover, with many years of experience artists with understanding of many different skin substances, so the damage to the skin is well controlled, resulting in a lighter tattoo and avoiding the risks as shown in Fig. The tattoo is smudged or has a thick scar on the surface.",
+        "des4-left-text1":"DAILY UPDATE",
+        "des4-left-text2":"Where to see the latest works of Silver Ant Tattoo?",
+        "des4-left-text3":"We are constantly updating our activities and new works on Instagram and Facebook. Follow the page to get inspired for the next tattoo idea!"        ,
+        "rating-title":"Customer's feedback",
+        "rating-name":"Nguyễn Hoàng Long",
+        "rating-subContent":"A better choice",
+        "rating-mainContent":"I don't know what to say other than Awesome. Everything is great. From people, space, service and the most wonderful is the work that artist Ngoc made for me. A reputable tattoo address, I definitely have to come back here a few more times.",
+        "footer-text":"Proud to be one of the highest rated tattoo parlors in the Hanoi area and one of the best tattoo parlors in Vietnam, we always strive to improve ourselves every day to produce works of art that surpass our expectations. customer expectations. Our artists will listen carefully to your ideas and provide expert advice to ensure you get the best artwork. Guests who come to Saturdayo even without an appointment will always be warmly welcomed."
+    },
+
+
     "common": {
         "add": "Add",
         "edit": "Edit",

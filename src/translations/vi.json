@@ -1,4 +1,53 @@
 {
+    "home-header":{
+        "category":"Chủ đề",
+        "category-des":"Chọn chủ đề muốn xăm",
+        "facility":"Cơ sở",
+        "facility-des":"Chọn cơ sở trên toàn hà nội",
+        "artist":"Thợ xăm",
+        "artist-des":"Đặt lịch cho thợ xăm hình",
+        "combo":"Gói Xăm",
+        "combo-des":"Các gói xăm",
+        "support":"hỗ trợ"
+        
+
+
+    },
+    "homeheader-banner":{
+        "banner-title-content1":"Saturday Tattoo",
+        "sologan":"Tattoo đẳng cấp thế giới"
+    },
+    "des":{
+        "des1-right-text1":"TRẢI NGHIỆM MỘT KHÔNG GIAN ĐẦY NGHỆ THUẬT",
+        "des1-right-text2":"Tại sao chọn Saturday tattoo?",
+        "des1-right-text3":"Chúng tôi sử dụng những dụng cụ tốt nhất và có những nghệ sĩ xăm tài năng nhất? Lời quảng cáo chung chung mà tất cả tiệm xăm sử dụng có lẽ sẽ không mang lại nhiều ý nghĩa với bạn. Nghệ thuật xấu hay đẹp sẽ khác nhau trong mắt của mỗi người và chính bạn là người đánh giá điều đó khi xem những tác phẩm được thực hiện tại tiệm xăm của chúng tôi. Điều khác biệt mà chúng tôi tự hào là trải nghiệm của bạn mỗi khi đến với chúng tôi và cái đó thì sẽ khó để diễn tả bằng lời. Có một điều chúng tôi có thể đảm bảo khi bạn đến với Saturdayo là bạn sẽ không có rủi ro về tài chính. Hãy đến để thấy sự khác biệt và chỉ trả tiền khi bạn hài lòng với kết quả bạn nhận được",
+        "booking-button":"Đặt lịch",
+        "contact-button":"Trò chuyện",
+        "des2-left-text1":"CHÚNG TÔI XĂM NHỮNG GÌ BẠN TƯỞNG TƯỢNG",
+        "des2-left-text2":"Saturday Tattoo có thể xăm phong cách nào?",
+        "des2-left-text3":"Saturday Tattoo là nơi quy tụ 8 nghệ sĩ kinh nghiệm với niềm đam mê và theo đuổi những phong cách xăm hình khác nhau. Chúng tôi sẽ đảm bảo chọn cho bạn một nghệ sĩ phù hợp nhất với phong cách mà bạn lựa chọn. Làm tròn vai không phải là điều chúng tôi hướng tới, thể hiện tác phẩm vượt qua sự mong đợi của bạn mới là mục tiêu của chúng tôi. Đừng ngần ngại kể với chúng tôi bất kì những gì bạn muốn, chúng tôi sẽ giúp bạn làm nốt phần còn lại.",
+        "des3-right-text1":"AN TOÀN TUYỆT ĐỐi",
+        "des3-right-text2":"Xăm ở Saturdayo có an toàn?",
+        "des3-right-text3":"kể từ ngày hoạt động từ cuối năm 2016, Saturdayo chưa hề có một trường hợp nào khách hàng bị nhiễm khuẩn. Có một số lý do được nêu ra dưới đây để bạn có thể hoàn toàn tin tưởng vào sự an toàn khi xăm hình tại Saturdayo. Toàn bộ dụng cụ tiếp xúc trực tiếp với da của bạn như kim và mực đã được vô trùng và chỉ sử dụng một lần duy nhất. Bề mặt xung quanh và những vật dụng nghệ sĩ xăm chạm vào được bọc cẩn thận để đảm bảo môi trường làm việc đủ tiêu chuẩn vệ sinh. Sau khi xăm chúng tôi cung cấp lựa chọn miếng dán bảo vệ hình xăm và hướng dẫn cụ thể để đảm bảo bạn không gặp phải bất kì rủi do gì trong suốt quá trình chăm sóc sau xăm. Hơn nữa với những nghệ sĩ nhiều năm kinh nghiệm với sự am hiểu về nhiều chất da khác nhau, vì vậy độ sát thương lên da được kiểm soát tốt dẫn đến việc xăm sẽ trở nên nhẹ nhàng hơn và tránh được những rủi do như hình xăm bị nhoè hoặc thành sẹo nổi dày trên trên bề mặt. ",
+        "des4-left-text1":"CẬP NHẬP HÀNG NGÀY",
+        "des4-left-text2":"Xem những tác phẩm mới nhất của Saturdayo ở đâu?",
+        "des4-left-text3":"Chúng tôi liên tục cập nhập các hoạt động và tác phẩm mới của mình trên Instagram và Facebook. Theo dõi page để được truyền cảm hứng cho ý tưởng hình xăm tiếp theo nhé!",        
+        "rating-title":"Phản hồi của khách hàng",
+        "rating-name":"Nguyễn Hoàng Long",
+        "rating-subContent":"Một lựa chọn không thể tốt hơn",
+        "rating-mainContent":"Em chẳng biết nói gì ngoài một từ “Tuyệt Vời”. Mọi thứ đều tuyệt. Từ con người,không gian,cách phục vục và tuyệt vời nhất là tác phẩm mà artist Ngọc thực hiện cho em. Một địa chỉ xăm uy tín,chắc chắn e phải quay lại đây vài lần nữa.",
+        "footer-text":"Tự hào là một tiệm xăm được đánh giá cao nhất tại khu vực Hà Nội và là một trong những tiệm xăm đẹp nhất tại Việt Nam, chúng tôi luôn cố gắng hoàn thiện mình mỗi ngày để cho ra những tác phẩm nghệ thuật vượt qua sự mong đợi của khách hàng. Nghệ sĩ của chúng tôi sẽ lắng nghe một cách kĩ lưỡng nhất ý tưởng của khách hàng và đưa ra những lời khuyên chuyên môn để đảm bảo khách hàng có được những tác phẩm nghệ thuật đẹp nhất. Những vị khách đến với Saturdayo dù không có hẹn trước vẫn sẽ luôn được chào đón một cách nồng nhiệt nhất."
+    },
+    
+
+    
+    "homeheader-slide":{
+        "album":"Thư viện ảnh"
+        
+    },
+
+
+
     "common": {
         "add": "Thêm",
         "edit": "Sửa",

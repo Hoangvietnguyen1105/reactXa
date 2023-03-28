@@ -1,0 +1,198 @@
+.HomePage-des{
+    margin-top: 100px;
+    margin-left: 110px;
+    margin-right: 110px; 
+    .des1{
+        display: flex;
+        flex-direction: row;
+        .des1-content-left{
+            margin-right: 120px;
+        }
+        .des1-content-right{
+            .des1-right-text1{
+                padding-bottom: 15px;
+                color:#747679
+            }
+            .des1-right-text3{
+                font-size: 17px;
+                line-height: 26px;
+                color:#747679;
+            }
+            .button-des{
+                margin-top: 50px;
+                .booking-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    margin-left: 70px;
+                    margin-right: 30px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .contact-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .booking-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+                .contact-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+    }  
+    .des2{
+        margin-top: 100px;
+        display: flex;
+        flex-direction: row;
+        .des2-content-right{
+            margin-left: 120px;
+        }
+        .des2-content-left{
+            .des2-left-text1{
+                padding-bottom:15px;
+                color:#747679
+            }
+            .des2-left-text3{
+                font-size: 17px;
+                line-height: 26px;
+                color:#747679;
+            }
+            .button-des{
+                margin-top: 50px;
+                .booking-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    margin-left: 70px;
+                    margin-right: 30px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .contact-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .booking-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+                .contact-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+    }
+    .des3{
+        margin-top: 100px;
+        display: flex;
+        flex-direction: row;
+        .des3-content-left{
+            margin-right: 120px;
+        }
+        .des3-content-right{
+            .des3-right-text1{
+                padding-bottom: 15px;
+                color:#747679
+            }
+            .des3-right-text3{
+                font-size: 17px;
+                line-height: 26px;
+                color:#747679;
+            }
+            .button-des{
+                margin-top: 50px;
+                .booking-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    margin-left: 70px;
+                    margin-right: 30px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .contact-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .booking-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+                .contact-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+
+        
+    }  
+    .des4{
+        margin-top: 100px;
+        display: flex;
+        flex-direction: row;
+        .des4-content-right{
+            margin-left: 120px;
+        }
+        .des4-content-left{
+            .des4-left-text1{
+                padding-bottom:15px;
+                color:#747679
+            }
+            .des4-left-text3{
+                font-size: 17px;
+                line-height: 26px;
+                color:#747679;
+            }
+            .button-des{
+                margin-top: 50px;
+                .facebook-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    margin-left: 70px;
+                    margin-right: 30px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .ins-button{
+                    font-size: 20px;
+                    width: 210px;
+                    height: 60px;
+                    background-color: white;
+                    border: 3px solid;
+                    border-radius: 50px;
+                }
+                .facebook-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+                .ins-button:hover{
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+    }
+}
